@@ -1,4 +1,4 @@
-package Lesson1;
+package JavaOne;
 
 public class HomeWorkApp {
     public static void main(String[] args) {
@@ -46,5 +46,5 @@ public class HomeWorkApp {
             System.out.println("a<b");
         }
     }
-}
 
+}
